@@ -1,0 +1,12 @@
+cuenta ROTHENBERGERPERU.COM
+
+Nombre de usuario de FTP:
+rothenbergerperu@rothenbergerperu.com
+
+Servidor FTP:
+ftp.nitchi-peru.com
+
+Puerto FTPS explícito de FTP &:  21
+
+contraseña:
+(mWpHQPD)WbL
